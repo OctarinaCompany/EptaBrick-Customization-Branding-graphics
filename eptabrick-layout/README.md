@@ -1,7 +1,3 @@
----
-description: User interface location.
----
-
 # EptaBrick Layout
 
 Every views displayed on the EptaBrick is a based on a basic layout composed in two part:

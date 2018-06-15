@@ -1,9 +1,3 @@
----
-description: >-
-  This document describes the pictures format,position and size use to customize
-  an EptaBrick for a specific Retailer Brand.
----
-
 # EptaBrick Branding Customization \(Marketing Pictures\)
 
 ![](.gitbook/assets/intro.png)

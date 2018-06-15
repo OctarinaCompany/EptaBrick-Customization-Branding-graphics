@@ -9,7 +9,7 @@ description: >-
 {% hint style="info" %}
 _**Background picture Specification**_
 
-The background picture  has to be 1280x1024 minimum size. 
+The background picture has to be 1280x1024 minimum size.
 
 No Transparency.
 

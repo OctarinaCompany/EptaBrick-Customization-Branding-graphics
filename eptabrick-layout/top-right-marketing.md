@@ -9,7 +9,7 @@ description: >-
 {% hint style="info" %}
 _**Top-Right Marketing picture Specification**_
 
-The  picture  has to be 640x160 minimum size. 
+The picture has to be 640x160 minimum size.
 
 It can be bigger as long has it is 4:1 ratio.
 

@@ -1,9 +1,3 @@
----
-description: >-
-  The retailer logo or a marketing description of the service (Click and
-  collect, Drive 24/24, DriveBox,etc...).
----
-
 # Top-Left Marketing
 
 {% hint style="info" %}
