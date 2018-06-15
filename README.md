@@ -1,8 +1,5 @@
 # EptaBrick Branding Customization \(Marketing Pictures\)
 
-## heading2
-### heading1
-
 ![](.gitbook/assets/intro.png)
 
 {% hint style="info" %}
