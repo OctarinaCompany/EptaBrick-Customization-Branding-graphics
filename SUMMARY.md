@@ -7,5 +7,4 @@
   * [Top-Left Marketing](eptabrick-layout/top-left-marketing.md)
   * [Top-Right Marketing](eptabrick-layout/top-right-marketing.md)
   * [Scanning option](eptabrick-layout/scanning-option.md)
-* [coucou](coucou.md)
 
